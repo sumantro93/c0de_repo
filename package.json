@@ -1,0 +1,11 @@
+{
+  "name": "u2c",
+  "version": "1.0.0",
+  "description": "this is node server config file , contains all that is required to build this project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumantro",
+  "license": "ISC"
+}
